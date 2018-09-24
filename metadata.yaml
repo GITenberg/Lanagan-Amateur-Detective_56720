@@ -1,5 +1,5 @@
 _repo: Lanagan-Amateur-Detective_56720
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Steele, Frederic Dorr
@@ -8,12 +8,17 @@ contributor:
     deathdate: 1944
     gutenberg_agent_id: '31609'
     url: http://www.gutenberg.org/2009/agents/31609
+covers:
+- cover_type: archival
+  image_path: 56720-h/images/cover.jpg
 creator:
   author:
     agent_name: Hurlbut, Edward H.
     gutenberg_agent_id: '49000'
     url: http://www.gutenberg.org/2009/agents/49000
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56720#Lanagan-Amateur-Detective
 gutenberg_issued: '2018-03-11'
 gutenberg_type: Text
 identifiers:
